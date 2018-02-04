@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "simple",
+    "description": "expo-three simple example",
+    "slug": "expo-three-simple",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/app-icon.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "png",
+        "obj",
+        "mtl"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
